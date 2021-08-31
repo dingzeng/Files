@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T03:20:52.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="cdRAGx0vzUbqBRIV27W3" version="15.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-31T03:22:35.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="dqmorw5JMbcXXVMLQ9sX" version="15.0.3" type="github" pages="2">
   <diagram id="7rpkOHKR9IGKEGmbMCpl" name="云帆架构图">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -89,49 +89,49 @@
         <mxCell id="sUc3wa01CP6ThyDmhEzo-60" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;gradientColor=none;opacity=70;fillColor=none;" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="100" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUc3wa01CP6ThyDmhEzo-61" value="Archive Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
+        <mxCell id="sUc3wa01CP6ThyDmhEzo-61" value="Purchase Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="100" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sUc3wa01CP6ThyDmhEzo-62" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;gradientColor=none;opacity=70;fillColor=none;" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="170" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUc3wa01CP6ThyDmhEzo-63" value="Archive Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
+        <mxCell id="sUc3wa01CP6ThyDmhEzo-63" value="Delivery Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="170" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sUc3wa01CP6ThyDmhEzo-64" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;gradientColor=none;opacity=70;fillColor=none;" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="244" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUc3wa01CP6ThyDmhEzo-65" value="Archive Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
+        <mxCell id="sUc3wa01CP6ThyDmhEzo-65" value="Sales Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="244" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sUc3wa01CP6ThyDmhEzo-66" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;gradientColor=none;opacity=70;fillColor=none;" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="320" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUc3wa01CP6ThyDmhEzo-67" value="Archive Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
+        <mxCell id="sUc3wa01CP6ThyDmhEzo-67" value="Retail Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="320" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sUc3wa01CP6ThyDmhEzo-68" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;gradientColor=none;opacity=70;fillColor=none;" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="388" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUc3wa01CP6ThyDmhEzo-69" value="Archive Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
+        <mxCell id="sUc3wa01CP6ThyDmhEzo-69" value="Stock Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="388" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sUc3wa01CP6ThyDmhEzo-71" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;gradientColor=none;opacity=70;fillColor=none;" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="460" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUc3wa01CP6ThyDmhEzo-72" value="Archive Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
+        <mxCell id="sUc3wa01CP6ThyDmhEzo-72" value="Report Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="460" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sUc3wa01CP6ThyDmhEzo-73" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;gradientColor=none;opacity=70;fillColor=none;" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="530" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUc3wa01CP6ThyDmhEzo-74" value="Archive Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
+        <mxCell id="sUc3wa01CP6ThyDmhEzo-74" value="Finance Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="530" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sUc3wa01CP6ThyDmhEzo-75" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;gradientColor=none;opacity=70;fillColor=none;" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="600" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUc3wa01CP6ThyDmhEzo-76" value="Archive Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
+        <mxCell id="sUc3wa01CP6ThyDmhEzo-76" value="System Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
           <mxGeometry x="450" y="600" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sUc3wa01CP6ThyDmhEzo-59" value="Archive Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1" vertex="1" parent="sUc3wa01CP6ThyDmhEzo-30">
