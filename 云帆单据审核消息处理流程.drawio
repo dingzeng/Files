@@ -10,6 +10,9 @@
         <mxCell id="SbZzK_aLQbvpFkuoksYy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="单据审核" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="SbZzK_aLQbvpFkuoksYy-10" edge="1" parent="1" source="SbZzK_aLQbvpFkuoksYy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SbZzK_aLQbvpFkuoksYy-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SbZzK_aLQbvpFkuoksYy-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#067d17;&quot;&gt;user.sheet.change.event.queue&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="590" y="390" as="geometry" />
         </mxCell>
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="SbZzK_aLQbvpFkuoksYy-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#067d17;&quot;&gt;sheet.change.event&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="400" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="SbZzK_aLQbvpFkuoksYy-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="单据类型" vertex="1">
+          <mxGeometry height="80" width="80" x="610" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
